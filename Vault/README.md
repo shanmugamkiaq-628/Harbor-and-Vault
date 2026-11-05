@@ -23,9 +23,9 @@ HashiCorp Vault is a secrets management tool used to securely store, access, and
 |---|---|
 | Operating System | Ubuntu |
 | Vault Service | vault-8201 |
-| Vault Address | http://127.0.0.1:8201 |
+| Vault Address | http://127.0.0.1:8200 |
 | Storage Backend | File |
-| Storage Directory | /opt/vault-8201/data |
+| Storage Directory | /opt/vault-8200/data |
 | Secrets Engine | KV Version 2 |
 | Authentication | Userpass |
 | Policy | task4-readonly |
